@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 I use python because semicolon is not needed in every line. <br>
-I am currently learning django.
+I am currently learning DRF
